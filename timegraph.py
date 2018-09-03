@@ -235,7 +235,7 @@ def timetransrcgr1():
     #     x.append(h + 1)
     # print query
     # print x
-    qmax="select max(BatchId) from transclusterhistory"
+    qmax="select max(BatchId),max(BatchId)-24 from transclusterhistory"
     cursor.execute(qmax)
     mbatchidsel=cursor.fetchone()
     mbatchid=0

@@ -116,47 +116,47 @@
       <file leaf-file-name="timegraph.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/timegraph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1672">
-              <caret line="295" column="14" selection-start-line="295" selection-start-column="10" selection-end-line="295" selection-end-column="14" />
+            <state relative-caret-position="374">
+              <caret line="242" column="20" selection-start-line="242" selection-start-column="20" selection-end-line="242" selection-end-column="20" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
-                <marker date="1536006762030" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8573:8617" ph="select max(B... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:8874" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:8927" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:8942" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:8960" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:8998" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9011" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9037" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9059" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9062" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9070" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9076" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9079" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9087" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="8784:9092" ph="select sum(t... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="9107:9343" ph="SELECT Coale... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="11596:11832" ph="SELECT Coale... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="13354:13596" ph="SELECT Coale... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="14924:15165" ph="SELECT Coale... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="16491:16732" ph="SELECT Coale... transclusterhistory" />
-                <marker date="1536006762030" expanded="true" signature="18059:18306" ph="SELECT Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8573:8633" ph="select max(B... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:8890" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:8943" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:8958" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:8976" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9014" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9027" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9053" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9075" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9078" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9086" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9092" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9095" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9103" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="8800:9108" ph="select sum(t... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="9123:9359" ph="SELECT Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="11612:11848" ph="SELECT Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="13370:13612" ph="SELECT Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="14940:15181" ph="SELECT Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="16507:16748" ph="SELECT Coale... transclusterhistory" />
+                <marker date="1536007708637" expanded="true" signature="18075:18322" ph="SELECT Coale... transclusterhistory" />
               </folding>
             </state>
           </provider>
@@ -563,8 +563,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="2" width="1934" height="1036" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="2" width="1934" height="1036" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2831001" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -573,7 +573,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37772676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37772676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -661,43 +661,43 @@
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <marker date="1536006762030" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8573:8617" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8874" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8927" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8942" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8960" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8998" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9011" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9037" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9059" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9062" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9070" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9076" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9079" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9087" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9092" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="9107:9343" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="11596:11832" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="13354:13596" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="14924:15165" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="16491:16732" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="18059:18306" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8573:8633" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8890" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8943" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8958" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8976" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9014" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9027" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9053" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9075" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9078" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9086" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9092" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9095" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9103" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9108" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="9123:9359" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="11612:11848" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="13370:13612" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="14940:15181" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="16507:16748" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="18075:18322" ph="SELECT Coale... transclusterhistory" />
           </folding>
         </state>
       </provider>
@@ -775,43 +775,43 @@
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <marker date="1536006762030" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8573:8617" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8874" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8927" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8942" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8960" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8998" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9011" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9037" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9059" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9062" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9070" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9076" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9079" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9087" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9092" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="9107:9343" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="11596:11832" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="13354:13596" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="14924:15165" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="16491:16732" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="18059:18306" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8573:8633" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8890" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8943" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8958" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8976" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9014" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9027" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9053" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9075" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9078" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9086" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9092" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9095" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9103" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9108" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="9123:9359" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="11612:11848" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="13370:13612" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="14940:15181" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="16507:16748" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="18075:18322" ph="SELECT Coale... transclusterhistory" />
           </folding>
         </state>
       </provider>
@@ -896,43 +896,43 @@
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <marker date="1536006762030" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8573:8617" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8874" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8927" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8942" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8960" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8998" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9011" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9037" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9059" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9062" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9070" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9076" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9079" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9087" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9092" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="9107:9343" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="11596:11832" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="13354:13596" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="14924:15165" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="16491:16732" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="18059:18306" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8573:8633" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8890" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8943" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8958" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8976" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9014" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9027" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9053" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9075" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9078" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9086" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9092" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9095" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9103" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9108" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="9123:9359" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="11612:11848" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="13370:13612" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="14940:15181" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="16507:16748" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="18075:18322" ph="SELECT Coale... transclusterhistory" />
           </folding>
         </state>
       </provider>
@@ -993,43 +993,43 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <marker date="1536006762030" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8573:8617" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8874" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8927" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8942" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8960" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8998" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9011" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9037" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9059" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9062" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9070" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9076" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9079" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9087" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9092" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="9107:9343" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="11596:11832" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="13354:13596" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="14924:15165" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="16491:16732" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="18059:18306" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8573:8633" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8890" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8943" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8958" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8976" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9014" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9027" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9053" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9075" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9078" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9086" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9092" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9095" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9103" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9108" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="9123:9359" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="11612:11848" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="13370:13612" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="14940:15181" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="16507:16748" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="18075:18322" ph="SELECT Coale... transclusterhistory" />
           </folding>
         </state>
       </provider>
@@ -1219,47 +1219,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/timegraph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="295" column="14" selection-start-line="295" selection-start-column="10" selection-end-line="295" selection-end-column="14" />
+        <state relative-caret-position="374">
+          <caret line="242" column="20" selection-start-line="242" selection-start-column="20" selection-end-line="242" selection-end-column="20" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <marker date="1536006762030" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8573:8617" ph="select max(B... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8874" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8927" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8942" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8960" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:8998" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9011" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9037" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9059" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9062" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9070" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9076" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9079" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9087" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="8784:9092" ph="select sum(t... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="9107:9343" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="11596:11832" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="13354:13596" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="14924:15165" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="16491:16732" ph="SELECT Coale... transclusterhistory" />
-            <marker date="1536006762030" expanded="true" signature="18059:18306" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="493:731" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="688:730" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="813:1083" ph="select sum(P... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1040:1082" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1623" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1691" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1722" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1757" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="1467:1779" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3623:3940" ph="SELECT Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="3956:4226" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="4183:4225" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="5943:6219" ph="select Coale... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="6176:6218" ph="select max(B... delclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="7947:8187" ph="select Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8142:8186" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8573:8633" ph="select max(B... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8890" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8943" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8958" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:8976" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9014" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9027" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9053" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9075" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9078" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9086" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9092" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9095" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9103" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="8800:9108" ph="select sum(t... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="9123:9359" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="11612:11848" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="13370:13612" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="14940:15181" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="16507:16748" ph="SELECT Coale... transclusterhistory" />
+            <marker date="1536007708637" expanded="true" signature="18075:18322" ph="SELECT Coale... transclusterhistory" />
           </folding>
         </state>
       </provider>

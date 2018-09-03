@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Configuration Settings</title>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<script type="text/javascript">
+    function isNumber(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+}
+
+</script>
+<body>
+<br>
+<table style="margin-left: 10%;">
+    <tr>
+        <td style="width:40%;"><a href='/' >Home</a></td>
+       <td align="center" style="width: 50%"><h3 align="center">Set/Edit Configuration values</h3></td>
+
+
+    </tr>
+</table>
+
+
+<br>
+<div style="margin-right:5%;
+    margin-left:5%;">
+
+
+<form name="saveconfig" method="post" action="saveconfig" >
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Site name</th>
+        <th>Deletion Threshold(Value in %)</th>
+          <th>Transfer Threshold - Source site(Value in %)</th>
+          <th>Transfer Threshold - Destination site(Value in %)</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>UTA_SWT2</td>
+        <td><input type="text" width="100px" name="del1" value="{{ utadel | int}}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+           <td><input type="text" width="100px" name="transrc1" value="{{ utasrc |int }}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+           <td><input type="text" width="100px" name="trandes1" value="{{  utades |int}}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+
+      </tr>
+      <tr>
+        <td>SWT2_CPB</td>
+        <td><input type="text" width="100px" name="del2" value="{{ cpbdel|int }}" onkeypress="return isNumber(event)" maxlength="3"></td>
+          <td><input type="text" width="100px" name="transrc2" value="{{ cpbsrc|int }}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+           <td><input type="text" width="100px" name="trandes2" value="{{ cpbdes |int }}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+
+      </tr>
+    <tr>
+        <td>OU_OSCER_ATLAS</td>
+        <td><input type="text" width="100px" name="del3" value="{{ oscdel |int }}" onkeypress="return isNumber(event)" maxlength="3"></td>
+        <td><input type="text" width="100px" name="transrc3" value="{{ oscsrc |int }}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+           <td><input type="text" width="100px" name="trandes3" value="{{ oscdes|int }}" onkeypress="return isNumber(event)" maxlength="3"> </td>
+
+      </tr>
+        <tr>
+        <td colspan="4" align="center"><button type="submit" class="btn btn-primary">Save</button></td>
+
+      </tr>
+    <tr>
+        <td colspan="4" align="center">{{ configres }}</td>
+
+      </tr>
+    </tbody>
+  </table>
+    </form>
+</div>
+
+
+</body>
+</html>

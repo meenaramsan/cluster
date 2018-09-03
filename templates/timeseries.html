@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timeseries graphs</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body style="margin-left: 1%;margin-right: 1%;width:97%;">
+
+<script>
+
+</script>
+<h1 align="center">Dashboard - Cluster Health
+</h1>
+<div>
+    <br>
+    <table style="width:48%;margin-left: 2%;margin-right: 2%">
+
+        <tr><td style="width: 1%;padding:1px"><label for="time">Default sites:</label></td>
+       <form name="viewtimeseries" method="post" action="/preinterval">
+        <td style="width: 1%;padding:1px">
+                <select name="option" width="280px">
+                    <option value="0" {% if ddval=='0' %}selected{% endif %}>All Sites</option>
+                    <option value="1" {% if ddval=='1' %}selected{% endif %}>UTA_SWT2</option>
+                <option value="2" {% if ddval=='2' %} selected{% endif %}>SWT2_CPB</option>
+                <option value="3" {% if ddval=='3' %} selected{% endif %}>OU_OSCER_ATLAS</option>
+        </select>
+        </td>
+         <td style="width: 1%;padding:1px"><a href="{{url_for('.preoneweek')}}" class="btn btn-link">View past 1 week data</a></td>
+          <td style="width: 1%;padding:1px;" ><a href="{{url_for('.preinterval')}}" class="btn btn-link">View past 2 weeks data</a></td>
+         </form>
+
+        </tr>
+
+    </table>
+</div>
+
+ <!-- D3.js -->
+{#    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>#}
+{#    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>#}
+{#    <!-- Plotly.js -->#}
+{#     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>#}
+{##}
+{#    <script type="text/javascript">#}
+{##}
+{#        var graphs = {{graphJSON | safe}};#}
+{##}
+{#        Plotly.plot('chart',graphs,{});#}
+{##}
+{#    </script>#}
+
+ <div id={{ chartID|safe }} class="chart" style="height: 100px; width: 500px"></div>
+        <script>
+            var chart_id = {{ chartID|safe }}
+            var series = {{ series|safe }}
+            var title = {{ title|safe }}
+            var xAxis = {{ xAxis|safe }}
+            var yAxis = {{ yAxis|safe }}
+            var chart = {{ chart|safe }}
+            var credits = {{ credits|safe }}
+        </script>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+            <script src="http://code.highcharts.com/highcharts.js"></script>
+{#            <script src="https://code.highcharts.com/modules/exporting.js"></script>#}
+            <script src="./static/main.js"></script>
+
+
+</body>
+</html>
